@@ -10,7 +10,7 @@ The overall goal of this project is to use a provided dataset to create a binary
 In order to perform the study, the analysis will be divided into 3 parts 
 
 #### 1) Preprocessing Data for a Neural Network Model
-#### 2) Compile, Train, and Evaluate the Model**
+#### 2) Compile, Train, and Evaluate the Model
 #### 3) Optimize the Model
 
 ### Data Preprocessing
